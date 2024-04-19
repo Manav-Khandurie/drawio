@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T11:10:31.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mpzW_pIDreBX2ExNf_Q3" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T11:12:37.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-MzzKovxdIMWDckeJkU-" version="24.2.5" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="gitflow">
-    <mxGraphModel dx="1500" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,7 +228,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="36DO21hLIYID8fuG349e-10" value="GitHub SCM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mw7s_7kKPy7Pgq_0dtm5-181">
-          <mxGeometry x="110" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="20" y="190" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="36DO21hLIYID8fuG349e-11" value="Developers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mw7s_7kKPy7Pgq_0dtm5-181">
           <mxGeometry x="20" y="562" width="80" height="30" as="geometry" />
