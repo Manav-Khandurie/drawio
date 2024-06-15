@@ -1,4 +1,4 @@
-<mxfile modified="2024-06-15T10:08:27.418Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="S66sI_OaK7zCITPWTLXs" version="24.5.4" type="github">
+<mxfile modified="2024-06-15T10:12:57.022Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="B7tX_q8S1PixxEVv6FGX" version="24.5.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1219" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -294,6 +294,9 @@
         </mxCell>
         <mxCell id="zSVYRo8wbSZJohXr3kAP-34" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Story API&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-74">
           <mxGeometry x="670" y="44" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zSVYRo8wbSZJohXr3kAP-56" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/react-icon-512x456-5xl7nmtw.png;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-74">
+          <mxGeometry x="114.12" y="15" width="61.75" height="55" as="geometry" />
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeWidth=2;startArrow=classic;startFill=0;flowAnimation=1;" parent="1" edge="1" target="oDoGhL-Xvolos_qGIRNS-7">
           <mxGeometry relative="1" as="geometry">
